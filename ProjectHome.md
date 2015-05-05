@@ -1,0 +1,1 @@
+This OSX app will install & patch all the necessary files on a virgin Arduino 1.0.5 app to add a new board called MicroJoy. MicroJoy turns a SparkFun Pro Micro controller into a USB gamepad with 4 10 bit Analog & 12 Digital inputs.
